@@ -26,6 +26,12 @@ voice_assistant/
 │── README.md        # Project documentation
 ```
 
+## 📹 Demo Video
+Watch the Voice Assistant in action:  
+[![Voice Assistant Demo](demo_img.png)](https://www.linkedin.com/posts/vishnukumar-l-h-ba6239342_python-oasisinfobyte-voiceassistant-activity-7376971180785696769-ZWnR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXR7m4Bh6OFFmWyra2rkh9quq-_Sn7YCFg)  
+*Click the image to view the demo.*
+
+
 ## 🚀 Installation & Setup
 
 1. Clone this repository:

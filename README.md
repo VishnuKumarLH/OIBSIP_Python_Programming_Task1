@@ -17,6 +17,7 @@ A simple Python-based **Voice Assistant** that can recognize speech, process nat
 ## 📂 Project Structure
 ```
 voice_assistant/
+│── skills.py        # Skills 
 │── config.py        # Configuration settings
 │── recognizer.py    # Speech recognition logic
 │── nlu.py           # Natural language understanding
